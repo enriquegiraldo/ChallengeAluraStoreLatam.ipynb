@@ -41,8 +41,8 @@ Tras analizar las métricas clave, se obtuvieron los siguientes hallazgos princi
 ## Cómo Utilizar
 
 1.  Descarga el archivo `Analisis_AluraStore.ipynb`.
-2.  Súbelo y ábrelo en Google Colab ([colab.research.google.com](https://colab.research.google.com/)) o en un entorno local compatible con Jupyter Notebooks (como Anaconda).
+2.  Súbelo y ábrelo en Google Colab ([colab.research.google.com]([https://colab.research.google.com/](https://colab.research.google.com/drive/1h895XSZYJnV6E8oHX1ollairmw5JAUz9)) o en un entorno local compatible con Jupyter Notebooks (como Anaconda).
 3.  Ejecuta las celdas en orden para replicar el análisis. Los datos se cargan directamente desde las URLs proporcionadas por Alura Latam en el desafío.
 
 ---
-*Este análisis fue realizado como parte de una actividad educativa de Alura Latam.*
+
